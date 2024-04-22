@@ -123,6 +123,7 @@ def process_guesses():
     all_possible_words = [word.lower() for word in nltk_words.words() if len(word) == 5]
 
     print("\nWelcome to the Wordle Helper!\n")
+    print("Consider using one the following first guesses: ourie, adieu, audio, auloi, louie")
     print("Please enter your guesses and feedback based on Wordle's color coding:")
     print("  Enter '1' if the letter is green (correct position).")
     print("  Enter '0' if the letter is yellow (wrong position).")
