@@ -157,6 +157,7 @@ def process_guesses():
                 continue_response = input("Continue guessing? (y/n): ").lower()
 
             if continue_response == 'n':
+                print("See you next time!")
                 break
         else:
             print_inline("\t\tInvalid input. Please enter a 5-letter word consisting only of letters. ")
