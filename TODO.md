@@ -1,5 +1,7 @@
 # TODO list
 
+# If you do something wrong, give the possibility to go back instead of starting from scratch
+
 ## Use most commonly appearing letters to improve guesses
 - Most commonly used letters (Morse Code version): {E, T, A, I, N, O, S, H, R, D, L, U, C, M, F, W, Y, G, P, B, V, K, Q, J, X, and Z}
 - Most commonly used letters (Concise Oxford Dictionary): {E, A, R, I, O, T, N, S, L, C, U, D, P, M, H, G, B, F, Y, W, K, V, X, Z, J, Q}
@@ -23,3 +25,4 @@ ROATE, RAISE, RAILE, SOARE, ARISE, IRATE, ORATE, ARIEL, AROSE, and RAINE.
 
 ## To read 
 - [article by Art of Problem Solving](https://artofproblemsolving.com/blog/articles/the-math-of-winning-wordle)
+
